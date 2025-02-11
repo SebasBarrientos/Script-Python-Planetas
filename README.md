@@ -42,4 +42,5 @@ Además, se pueden agregar atributos adicionales de forma creativa para enriquec
    ```bash
    git clone https://github.com/SebasBarrientos/Script-Python-Planetas.git
    cd Script-Python-Planetas
+   pip install psycopg2-binary python-dotenv faker                                                                          
    py .\planetListCSV.py
